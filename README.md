@@ -1,4 +1,4 @@
-# Back-end - Projeto Final | Final Projectg
+# Back-end - Projeto Final | Final Project
 
 Projeto final do Back-end, de nome "Food Explorer". Faz parte do curso "Explorer", da plataforma de ensino [Rocketseat](https://rocketseat.com.br/).
 <br>—<br>
