@@ -1,5 +1,7 @@
-# Back-end - Final Project
+# Back-end - Projeto Final | Final Project
 
+Projeto final do Back-end, de nome "Food Explorer". Faz parte do curso "Explorer", da plataforma de ensino [Rocketseat](https://rocketseat.com.br/).
+—
 Back-end final project, named "Food Explorer". Part of the program "Explorer", from the online platform [Rocketseat](https://rocketseat.com.br/).
 
 <br>
@@ -10,13 +12,13 @@ Back-end final project, named "Food Explorer". Part of the program "Explorer", f
 </div>
 <br>
 
-## Tools used in this project
+## Ferramentas utilizadas | Tools used in this project
 
 - JavaScript
 - Express (Node)
 - SQL
 
-Libraries:
+Bibliotecas | Libraries:
 - BCrypt
 - Cors
 - Dotenv
